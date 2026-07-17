@@ -3,6 +3,9 @@ h1{
   size: 5cap;
  background-color: rgb(7, 14, 11);
 }
+.navbar{
+    border-color: rgb(69, 84, 79);
+}
 *{
     background-image: -moz-element();
 }
