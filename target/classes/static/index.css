@@ -1,8 +1,6 @@
-index.css: 
-
-```body{
+body{
     margin: 0px;
-    background-color: ;
+    background-color: rgb(184, 175, 175);
 }
 
 h1 {
@@ -15,8 +13,7 @@ h1 {
     border-color: gray;
     padding: 20px;
     text-align: center;
-    background-color: rgb(136, 67, 67);  
-
+    background-color: white;
 }
 
 .navbar a{
@@ -40,9 +37,10 @@ h1 {
     overflow: hidden;
     /* margin-left: 40%; */
     margin-left: auto;
-    margin-right: auto; 
+    margin-right: auto;
     padding-bottom: 20px;
-    background-color: rgb(247, 244, 244);
+    background-color: white;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }
 
 .card img{
@@ -55,4 +53,4 @@ h1 {
     padding: 10px;
     width: 80%;
     border-radius: 8px;
-}```
+}
